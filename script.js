@@ -87,4 +87,4 @@ const n = 100; // Change this value to the desired range
  fizzBuzz(n);
 
 
-//                           5
+//                        5
